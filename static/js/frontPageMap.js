@@ -43,7 +43,7 @@ function createMap(incidents) {
 
   // Create an overlay object to hold our overlay.
   var overlayMaps = {
-    Cities: incidents
+    States: incidents
   };
 
   // Create our map, 
